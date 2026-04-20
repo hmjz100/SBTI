@@ -1,5 +1,5 @@
 # SBTI
-SBTI 测试，全称 “Silly Big Personality Test”，一个戏仿 MBTI 的人格测试，由 BiliBili UP 主 “蛆肉儿串儿” 发明。
+SBTI 测试，全称 “Silly Big Personality Test”，一个戏仿 MBTI 的人格测试，由 BiliBili UP 主 “[蛆肉儿串儿](https://space.bilibili.com/417038183)” 发明。
 
 # 目标
 此仓库的目标是通过逆向 https://www.bilibili.com/blackboard/era/WijKT2bWuCJWPg8B.html 还原源代码。  
